@@ -1,0 +1,32 @@
+# 注意: 授课教师板块为模板内容，需人工填充。
+course_name = "生物信息学"
+course_code = "COMP3019"
+
+notices = ""
+
+[[lecturers]]
+name = "（教师名）"
+
+  [[lecturers.reviews]]
+  content = """授课风格：
+听课建议：
+……"""
+  author = { name = "", link = "", date = "" }
+
+textbooks = []
+
+online_resources = []
+
+course = []
+
+exam = []
+
+lab = []
+
+advice = []
+
+schedule = []
+
+related_links = []
+
+misc = []
