@@ -1,5 +1,4 @@
 course_name = "生物信息学"
-repo_type = "normal"
 course_code = "COMP3019"
-
+repo_type = "normal"
 description = "COMP3019 - 生物信息学"
