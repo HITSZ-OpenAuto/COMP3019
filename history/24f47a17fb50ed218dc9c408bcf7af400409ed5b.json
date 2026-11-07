@@ -1,0 +1,152 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 554,
+    "time": 1794022879,
+    "hash": "24f47a17fb50ed218dc9c408bcf7af400409ed5b"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1754241019,
+    "hash": "ec3f17db5b2d44a6805cda34699d7ac4726bcb79"
+  },
+  "README.md": {
+    "size": 96,
+    "time": 1791961600,
+    "hash": "c00d92db8188a37fb72ac6ae7e6c302211974c95"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1754241019,
+    "hash": "ec3f17db5b2d44a6805cda34699d7ac4726bcb79"
+  },
+  "assignments/Project 1.docx": {
+    "size": 23833,
+    "time": 1756080582,
+    "hash": "817b4524c6a1c653fb837bff9408469237994f9a"
+  },
+  "assignments/Project 2.docx": {
+    "size": 25893,
+    "time": 1756080582,
+    "hash": "817b4524c6a1c653fb837bff9408469237994f9a"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1754241019,
+    "hash": "ec3f17db5b2d44a6805cda34699d7ac4726bcb79"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1754241019,
+    "hash": "ec3f17db5b2d44a6805cda34699d7ac4726bcb79"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1754241019,
+    "hash": "ec3f17db5b2d44a6805cda34699d7ac4726bcb79"
+  },
+  "readme.toml": {
+    "size": 121,
+    "time": 1773428186,
+    "hash": "e9b4298912bb565eb2d674cf11c608f042d28285"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1754241019,
+    "hash": "ec3f17db5b2d44a6805cda34699d7ac4726bcb79"
+  },
+  "slides/2022/1. 生物大数据：生命的数据时代.pdf": {
+    "size": 20653197,
+    "time": 1756080582,
+    "hash": "817b4524c6a1c653fb837bff9408469237994f9a"
+  },
+  "slides/2022/10. 基因表达数据分析.pdf": {
+    "size": 7682950,
+    "time": 1756080582,
+    "hash": "817b4524c6a1c653fb837bff9408469237994f9a"
+  },
+  "slides/2022/11. 基因注释与功能分类.pdf": {
+    "size": 3574017,
+    "time": 1756080582,
+    "hash": "817b4524c6a1c653fb837bff9408469237994f9a"
+  },
+  "slides/2022/12. 生物分子网络与通路.pdf": {
+    "size": 6409570,
+    "time": 1756080582,
+    "hash": "817b4524c6a1c653fb837bff9408469237994f9a"
+  },
+  "slides/2022/13. 蛋白质结构1.pdf": {
+    "size": 2330649,
+    "time": 1756080582,
+    "hash": "817b4524c6a1c653fb837bff9408469237994f9a"
+  },
+  "slides/2022/13. 蛋白质结构2.pdf": {
+    "size": 3520734,
+    "time": 1756080582,
+    "hash": "817b4524c6a1c653fb837bff9408469237994f9a"
+  },
+  "slides/2022/14. 计算表观遗传学.pdf": {
+    "size": 9955454,
+    "time": 1756080582,
+    "hash": "817b4524c6a1c653fb837bff9408469237994f9a"
+  },
+  "slides/2022/15. 非编码RNA与复杂疾病1.pdf": {
+    "size": 13035310,
+    "time": 1756080582,
+    "hash": "817b4524c6a1c653fb837bff9408469237994f9a"
+  },
+  "slides/2022/15. 非编码RNA与复杂疾病2.pdf": {
+    "size": 10981567,
+    "time": 1756080582,
+    "hash": "817b4524c6a1c653fb837bff9408469237994f9a"
+  },
+  "slides/2022/16. 复杂疾病的分子特征与计算分析.pdf": {
+    "size": 5476256,
+    "time": 1756080582,
+    "hash": "817b4524c6a1c653fb837bff9408469237994f9a"
+  },
+  "slides/2022/17. 二代测序技术.pdf": {
+    "size": 9281660,
+    "time": 1756080582,
+    "hash": "817b4524c6a1c653fb837bff9408469237994f9a"
+  },
+  "slides/2022/2. 生物数据和数据库.pdf": {
+    "size": 17944915,
+    "time": 1756080582,
+    "hash": "817b4524c6a1c653fb837bff9408469237994f9a"
+  },
+  "slides/2022/3. 序列比对1.pdf": {
+    "size": 5741312,
+    "time": 1756080582,
+    "hash": "817b4524c6a1c653fb837bff9408469237994f9a"
+  },
+  "slides/2022/4. 序列比对2.pdf": {
+    "size": 1162035,
+    "time": 1756080582,
+    "hash": "817b4524c6a1c653fb837bff9408469237994f9a"
+  },
+  "slides/2022/5. 序列比对3a.pdf": {
+    "size": 4558677,
+    "time": 1756080582,
+    "hash": "817b4524c6a1c653fb837bff9408469237994f9a"
+  },
+  "slides/2022/6. 序列比对4.pdf": {
+    "size": 8422343,
+    "time": 1756080582,
+    "hash": "817b4524c6a1c653fb837bff9408469237994f9a"
+  },
+  "slides/2022/7. 分子进化分析.pdf": {
+    "size": 5014281,
+    "time": 1756080582,
+    "hash": "817b4524c6a1c653fb837bff9408469237994f9a"
+  },
+  "slides/2022/8. 分子进化分析2.pdf": {
+    "size": 10337940,
+    "time": 1756080582,
+    "hash": "817b4524c6a1c653fb837bff9408469237994f9a"
+  },
+  "slides/2022/9. 分子进化分析3.pdf": {
+    "size": 5449241,
+    "time": 1756080582,
+    "hash": "817b4524c6a1c653fb837bff9408469237994f9a"
+  }
+}
